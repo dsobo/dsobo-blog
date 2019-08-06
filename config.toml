@@ -29,7 +29,7 @@ relativeURLS = true
 [Params]
     intro = true
     headline = "Databasic"
-    description = "Come watch me fail to meet my goals and maybe learn something along the way"
+    description = "A data blog for the common man by the common man"
     github = "https://github.com/dsobo"
     gitlab = ""
     linkedin = "www.linkedin.com/in/dennis-sobolewski-a5606085"
